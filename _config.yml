@@ -49,7 +49,7 @@ jekyll-archives:
 # Category descriptions (for archive pages)
 descriptions:
   - cat: life
-    desc: "千与千寻"
+    desc: "诗与远方"
 
   - cat: tech
     desc: "骑马与砍杀"

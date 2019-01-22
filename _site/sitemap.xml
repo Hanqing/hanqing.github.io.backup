@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/tech/2015/04/18/welcome-to-jekyll.html</loc>
+<lastmod>2015-04-18T16:43:59+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/life/2019/01/22/macao-casino-launch.html</loc>
+<lastmod>2019-01-22T16:43:59+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/posts/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/typography/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/tech/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/life/</loc>
+</url>
+</urlset>

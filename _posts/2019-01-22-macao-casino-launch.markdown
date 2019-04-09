@@ -7,7 +7,7 @@ categories: life
 cover:  "/assets/instacode.png"
 ---
 
-2019年，我给自己列了几条Flag，其中一条就是：每周至少写一篇文章，可以是总结/日志/读书笔记。
+2019年，我给自己列了几条Flag，其中一条就是：<del>每周至少写一篇文章</del>，可以是总结/日志/读书笔记。
 
 [GitHub Pages](pages)搭建博客非常简单，DNSPod上注册了域名，11块一年。
 

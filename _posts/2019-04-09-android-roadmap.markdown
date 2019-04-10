@@ -12,11 +12,11 @@ cover:  "/assets/instacode.png"
 - Android
   - 四大组件
 	- Activity启动/启动模式/Fragment设计
-	- [Service启动/启动方式](blog/android/service.md)
+	- Service启动/启动方式
 	- BroadcastReceiver注册方式/优先级
 	- ContentProvider安装过程
   - 进程通信
-	- [Binder机制](blog/android/binder.md)
+	- Binder机制
 	- AMS/PMS/WMS
 	- 进程保活/优先级
   - 线程通信
@@ -46,7 +46,7 @@ cover:  "/assets/instacode.png"
 	- 插件化
 	  - 类加载机制/multidex
 	  - 四大组件启动过程
-	  - [InstantRun原理](https://github.com/rushgit/InstantRun)
+	  - InstantRun原理
 	- hybrid
 	  - ReactNative/Weex
 	  - 免安装
@@ -59,9 +59,9 @@ cover:  "/assets/instacode.png"
 	- 事件总线：EventBus
 	- 动画：Lottie
   - 安全
-	- [数字签名/加密算法](blog/security/sign_mechanism.md)
+	- 数字签名/加密算法
 	- 安全编码
-	- [混淆](blog/security/关于proguard，你需要知道的全部.md)
+	- 混淆
 	- 反编译/加固
   - Android版本新特性
 	- [Android N分屏适配](https://blog.csdn.net/zwjemperor/article/details/52337106)
@@ -91,8 +91,8 @@ cover:  "/assets/instacode.png"
 - 计算机基础
   - 网络基础
 	- TCP/IP：握手/挥手/拥塞控制/流量控制
-	- [HTTP：请求/响应/缓存](blog/http/你要了解的HTTP基础知识.md)
-	- [HTTPS原理](blog/http/关于HTTPS，你需要知道的全部.md)
+	- HTTP：请求/响应/缓存
+	- HTTPS原理
 	- WebSocket
   - 操作系统
 	- 进程与线程
